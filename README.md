@@ -1,4 +1,4 @@
-<img width="1848" height="721" alt="Screenshot_4" src="https://github.com/user-attachments/assets/32b6ecb8-9369-4bac-acd3-d01b294a35e8" /># DomesticPets
+# DomesticPets
 
 DomesticPets é um site Fullstack feito com Node.js para cuidar da organização do armazém e de informações de Petshops.<br>
 <br>
