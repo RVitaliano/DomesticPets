@@ -1,2 +1,7 @@
 backend/node_modules/
+backend/database/database.db
+backend/database/database.db-shm
+backend/database/database.db-wal
+backend/.env/
 frontend/node_modules/
+frontend/.env/
